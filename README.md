@@ -1,5 +1,5 @@
 # Carteira-de-Ações-com-Inteligência-Artificial
-Projeto com o objetivo de estudo sobre inteligência Artificial e suas aplicações. 
+Projeto de estudo sobre inteligência Artificial e suas aplicações. 
 Alguns assuntos tratados no projeto: 
 - Análise exploratória
 - Tratamento de Dados
@@ -7,4 +7,4 @@ Alguns assuntos tratados no projeto:
 - Feature Selection
 
  Objetivo do Projeto:
- Análisar ações de empresas e criar um modelo de IA capaz de prever se: comprar ações em um determinado trimestre vai gerar lucro e qual o percentual e se ambos vão ser melhor ou pior que o indice IBOVESPA.
+ Análisar ações de empresas e criar um modelo de IA capaz de prever se: comprar ações em um determinado trimestre vai gerar lucro e qual o percentual do mesmo, se ambos vão ser melhor ou pior que o indice IBOVESPA.
